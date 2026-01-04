@@ -1,2 +1,2 @@
 # pythonpassionproject
-My python passion project (probably something with API)
+i'll work on it... someday :/
